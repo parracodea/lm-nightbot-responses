@@ -1,15 +1,18 @@
 [
-    ["Hmm...",
-    "That can't be right...",
-    "That's too low!",
-    "That's wrong..."],
-    
-    ["must have made a mental math error",
-    "forgot to carry the 1",
-    "forgot to account for the awesome music",
-    "is double checking their math",
-    "must have made a mistake",
-    "needs to borrow a calculator",
-    "made a rounding error",
-    "is recalculating the odds"]
+    [
+        "Hmm...",
+        "That can't be right...",
+        "That's too low!",
+        "That's wrong..."
+    ],
+    [
+        "must have made a mental math error",
+        "forgot to carry the 1",
+        "forgot to account for the awesome music",
+        "is double checking their math",
+        "must have made a mistake",
+        "needs to borrow a calculator",
+        "made a rounding error",
+        "is recalculating the odds"
+    ]
 ]
