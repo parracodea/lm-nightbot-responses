@@ -79,4 +79,4 @@ let es = [
     "lilymeGG"
 ];
 let e = es[(Math.random() * es.length) | 0];
-`Ready Player ${n}! $(touser) is ${v} ${g} ! ${e}`
+`Ready Player ${n}! @touser is ${v} ${g} ! ${e}`
