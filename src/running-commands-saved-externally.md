@@ -12,7 +12,7 @@ Then in Nightbot, set the command as:
 ```
 $(eval 
     var js = $(urlfetch json https://raw.githubusercontent.com/parracodea/lm-nightbot-responses/refs/heads/main/src/yourCommand.json);
-    eval(js).replace("@touser","$(touser)";
+    eval(js).replace("@touser","$(touser)");
 )
 ```
 
