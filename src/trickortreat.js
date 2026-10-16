@@ -3,6 +3,21 @@ if (rng == 0) {
     `Boo!!! Ghost`
 } else if (rng < 10) {
     let ma = [
+        "kevinc70GhostLove 👻",
+        "Witch 🧙‍♀️",
+        "Vampire bbtheeVamPop",
+        "Zombie justinegZombie",
+        "Skeleton 💀",
+        "Monster 🧌",
+        "Werewolf 🐺",
+        "Spider 🕷️",
+        "Black Cat 🐈‍⬛",
+        "Bat 🦇"
+    ];
+    let w = ma[Math.floor(Math.random() * ma.length)];
+    `A ${w} opened the door!`
+} else {
+    let ca = [
         "Lollipops🍭",
         "Chocolates🍫",
         "Caramel",
@@ -20,21 +35,6 @@ if (rng == 0) {
         "Rock Candy",
         "Peanut Brittle",
         "Bubblegum"
-    ];
-    let w = ma[Math.floor(Math.random() * ma.length)];
-    `A ${w} opened the door!`
-} else {
-    let ca = [
-        "kevinc70GhostLove 👻",
-        "Witch 🧙‍♀️",
-        "Vampire bbtheeVamPop",
-        "Zombie justinegZombie",
-        "Skeleton 💀",
-        "Monster 🧌",
-        "Werewolf 🐺",
-        "Spider 🕷️",
-        "Black Cat 🐈‍⬛",
-        "Bat 🦇"
     ];
     let c = ca[Math.floor(Math.random() * ca.length)];
     `$(user) got some ${c}!`
