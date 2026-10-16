@@ -37,5 +37,5 @@ if (rng == 0) {
         "Bubblegum"
     ];
     let c = ca[Math.floor(Math.random() * ca.length)];
-    `@user got some ${c}!`
+    `@touser got some ${c}!`
 }
