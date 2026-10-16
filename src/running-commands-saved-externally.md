@@ -17,6 +17,8 @@ $(eval
 
 Note that `eval(js)` does not have a `$`. We're using JavaScript's `eval()`, not Nightbot's `$eval( )`
 
+Nightbot may be caching the json. If you're not seeing updates, try renaming your json file or updating the Nightbot command (e.g. adding an extra space).
+
 # Nightbot Variables
 
 Note that the built-in Nighbot variables won't work:
